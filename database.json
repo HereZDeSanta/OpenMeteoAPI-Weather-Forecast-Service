@@ -1,0 +1,129 @@
+{
+    "1": {
+        "username": "Danila",
+        "tracked_cities": {
+            "Yakutsk": {
+                "latitude": 62.0339,
+                "longitude": 129.7331,
+                "weather": {
+                    "time": "2025-01-19T12:30",
+                    "interval": 900,
+                    "temperature": -36.0,
+                    "windspeed": 1.8,
+                    "winddirection": 169,
+                    "is_day": 0,
+                    "weathercode": 71
+                },
+                "last_updated": "2025-01-19T12:33:06.644352"
+            },
+            "Chelyabinsk": {
+                "latitude": 55.154,
+                "longitude": 61.4291,
+                "weather": {
+                    "time": "2025-01-19T12:30",
+                    "interval": 900,
+                    "temperature": -6.3,
+                    "windspeed": 8.6,
+                    "winddirection": 213,
+                    "is_day": 1,
+                    "weathercode": 3
+                },
+                "last_updated": "2025-01-19T12:33:06.864231"
+            }
+        }
+    },
+    "2": {
+        "username": "Anatoly",
+        "tracked_cities": {
+            "Sochi": {
+                "latitude": 43.5992,
+                "longitude": 39.7257,
+                "weather": {
+                    "time": "2025-01-19T12:30",
+                    "interval": 900,
+                    "temperature": 6.9,
+                    "windspeed": 10.5,
+                    "winddirection": 278,
+                    "is_day": 1,
+                    "weathercode": 63
+                },
+                "last_updated": "2025-01-19T12:33:07.080597"
+            },
+            "Kaliningrad": {
+                "latitude": 54.7065,
+                "longitude": 20.511,
+                "weather": {
+                    "time": "2025-01-19T12:30",
+                    "interval": 900,
+                    "temperature": 3.5,
+                    "windspeed": 10.8,
+                    "winddirection": 246,
+                    "is_day": 1,
+                    "weathercode": 45
+                },
+                "last_updated": "2025-01-19T12:33:07.312115"
+            },
+            "Krasnodar": {
+                "latitude": 45.0448,
+                "longitude": 38.976,
+                "weather": {
+                    "time": "2025-01-19T12:30",
+                    "interval": 900,
+                    "temperature": 3.7,
+                    "windspeed": 14.6,
+                    "winddirection": 308,
+                    "is_day": 1,
+                    "weathercode": 61
+                },
+                "last_updated": "2025-01-19T12:33:07.560118"
+            }
+        }
+    },
+    "3": {
+        "username": "Vladislav",
+        "tracked_cities": {
+            "St Petersburgh": {
+                "latitude": 59.9386,
+                "longitude": 30.3141,
+                "weather": {
+                    "time": "2025-01-19T12:30",
+                    "interval": 900,
+                    "temperature": 2.3,
+                    "windspeed": 19.1,
+                    "winddirection": 273,
+                    "is_day": 1,
+                    "weathercode": 3
+                },
+                "last_updated": "2025-01-19T12:33:07.791684"
+            },
+            "Sosnovy Bor": {
+                "latitude": 59.8996,
+                "longitude": 29.0857,
+                "weather": {
+                    "time": "2025-01-19T12:30",
+                    "interval": 900,
+                    "temperature": 1.1,
+                    "windspeed": 17.6,
+                    "winddirection": 227,
+                    "is_day": 1,
+                    "weathercode": 2
+                },
+                "last_updated": "2025-01-19T12:33:08.004969"
+            },
+            "Rostov": {
+                "latitude": 57.1914,
+                "longitude": 39.4139,
+                "weather": {
+                    "time": "2025-01-19T12:30",
+                    "interval": 900,
+                    "temperature": -1.2,
+                    "windspeed": 14.7,
+                    "winddirection": 301,
+                    "is_day": 1,
+                    "weathercode": 2
+                },
+                "last_updated": "2025-01-19T12:33:08.239053"
+            }
+        }
+    }
+}
